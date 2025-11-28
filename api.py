@@ -1,6 +1,9 @@
 # Security patch applied
 
 
+def get_info():
+    return "There is no information yet!"
+
 def get_users():
     return ["user1", "user2"]
 
