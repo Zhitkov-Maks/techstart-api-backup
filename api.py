@@ -4,6 +4,9 @@ def get_full_information():
     return "Some information"
 
 
+def get_info():
+    return "There is no information yet!"
+
 def get_users():
     return ["user1", "user2"]
 
